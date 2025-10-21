@@ -1,2 +1,6 @@
 # Atividades---Marina-Dev
-Atividades de Logica d programação
+Aluna: Marina Maria Araújo Brito
+Turma: 1 Desenvolvimento de Sistemas
+Professor: Lucas Paiva Forte
+
+Atividades referentes à matéria Lógica de programação - 4 Bimestre, Java.
