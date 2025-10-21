@@ -1,4 +1,4 @@
-# Atividade1 ---Marina-Dev
+# Atividade1 ---
 Aluna: Marina Maria Araújo Brito //
 Turma: 1 Desenvolvimento de Sistemas
 - Professor: Lucas Paiva Forte
